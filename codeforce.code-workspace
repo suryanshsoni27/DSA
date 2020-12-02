@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.jsx": "javascriptreact",
+			"*.jsp": "html",
+			"*.js": "javascriptreact",
+			"iostream": "cpp",
+			"string": "cpp"
+		}
+	}
+}
