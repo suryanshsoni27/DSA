@@ -13,8 +13,6 @@ void reverse(string s)
     cout << s[0];
 }
 
-
-
 int main()
 {
     reverse("samson");
