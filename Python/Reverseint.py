@@ -11,8 +11,8 @@ def reverse(n):
 
 
 arr = []
-for val in i:
-    k = input()
+for val in range(i):
+    k = int(input())
     ret = reverse(val)
     arr.append(ret)
 
