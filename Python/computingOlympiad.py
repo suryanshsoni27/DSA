@@ -9,3 +9,5 @@ for i in range(number):
 while True:
     r = random.randint(0,min(li))
     
+
+    
